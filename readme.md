@@ -23,3 +23,9 @@ You should find a [thoughts.md](thoughts.md) file that you will add your thought
 #### Deliverable
 
 Edit the [thoughts.md](thoughts.md) with your responses. Make a pull request, with the request titled "Your Name - Intro to Material Design Homework".
+
+---
+
+## Licensing
+1. All content is licensed under a CC-BY-NC-SA 4.0 license. 
+2. All software code is licensed under GNU GPLv3. For commercial use or alternative licensing, please contact legal@ga.co.
